@@ -13,10 +13,11 @@ int main()
 	for (int i = 0; i < tabSize; i++)
 	{
 		cout << tab[i] << " ";
-		Sleep(10);
+		Sleep(11);
 	}
 	cout << endl;
 	Sleep(5000);
+
 
 	while (size + 1 < tabSize)
 	{
